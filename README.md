@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there, I'm Abdullah Al Kawser 👋
 
-<!--
-**Kawser422/Kawser422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### CSE Graduate | PHP & Laravel Developer | Telecom Enthusiast
 
-Here are some ideas to get you started:
+- Passionate about building real-world solutions in **web & Telecom**
+- 🔭 I’m currently working on: 'OTP Authentication System with PHP'
+- 🌱 I’m currently learning: 'Laravel', 'Git', 'Network APIs'
+- 📫 Reach me through e-mail:'kawserahmed.pub@gmail.com'
+- ⚡ Fun fact: I believe real skills beat CGPA every time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚒️ Tech Stack
+- Languages: PHP, JavaScript, HTML, CSS
+- Frameworks: Laravel, Bootstrap
+- Tools: Git, GitHub, MySQL, VS Code
+
+## 🔧 Projects In Progress
+- OTP Based E-Authentication System
+- Telecom Billing Calculator
+- Network Monitoring Dashboard
+
+Thanks for visiting my Github Profile!
